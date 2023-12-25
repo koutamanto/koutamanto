@@ -6,7 +6,7 @@ I've been living a life with high hopes.
 
 A normal life's not enough for me, I thought.
 
-And I decided to be a President,to make a lot of money that I can't spend all of them.
+And I decided to be a CEO,to make a lot of money that I can't spend all of them.
 
 Also in engineering, I've been creating the new things not the existing.
 
