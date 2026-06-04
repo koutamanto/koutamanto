@@ -78,14 +78,16 @@ const koutamanto: Engineer & Physicist = {
 
 | Project | Description | Tech |
 | :------ | :---------- | :--- |
-| 🤖 **EleClone** 🔒 | Digital Clone Platform — built as CTO @ Vaccano LLC | LLM · Cloud |
+| 🤖 **[EleClone「永」](https://prtimes.jp/main/html/rd/p/000000002.000126010.html)** 🔒 | Digital Clone Platform — built as CTO @ Vaccano LLC ([PR TIMES](https://prtimes.jp/main/html/rd/p/000000002.000126010.html)) | LLM · 3D · Voice |
 | 🎨 **DesignAI** 🔒 | Automated Web Generation System — built as CISO @ ATLAS ONLINE | LLM · Web |
 | 🌌 **[GATE-1JTC](https://github.com/koutamanto/GATE-1JTC)** | 3D demo of GATE-1JTC ([DOI](https://doi.org/10.5281/zenodo.18049897)) | TypeScript · Three.js |
-| 🎛️ **GATE-ControlPanel** 🔒 | Web control panel for GATE-1JTC / 2JTC / FJTC with calc | TypeScript |
+| 🎛️ **[GATE-ControlPanel](https://doi.org/10.5281/zenodo.18049897)** 🔒 | Web control panel for GATE-1JTC / 2JTC / FJTC with calc | TypeScript |
 | ✋ **HandMirror.Game** 🔒 | Mimic-hand-pose game | TypeScript · MediaPipe |
 | 🆘 **[AIBO](https://github.com/koutamanto/AIBO)** | AI Based Overcoming Support — AI を活用した自殺防止相談システム | Python · LLM |
+| 🕸️ **[UnSNS](https://github.com/koutamanto/UnSNS)** | Unsocial Networking Service — Flask 製 SNS（Web Push 対応） | Python · Flask |
+| 🐦 **[TweetOnRails](https://github.com/koutamanto/TweetOnRails)** | Twitter 連携 Web アプリ | Ruby on Rails |
 
-<p align="right"><sub>🌐 = public repo &nbsp;·&nbsp; 🔒 = private / proprietary</sub></p>
+<p align="right"><sub>🌐 = public repo &nbsp;·&nbsp; 🔒 = private / proprietary（リンク先は公開情報）</sub></p>
 
 ---
 
