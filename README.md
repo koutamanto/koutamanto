@@ -1,69 +1,102 @@
 <!-- =========================================================
   koutamanto — GitHub Profile README
-  「プログラミングは楽しいです」
+  Katsumata Kouta · Full-stack Engineer × Physicist
 ========================================================= -->
 
 <!-- ===== Header banner (animated wave) ===== -->
 <p align="center">
-  <a href="https://github.com/koutamanto">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=koutamanto&fontSize=72&fontAlignY=38&desc=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E3%81%A7%E3%81%99%20%E2%9C%A8&descAlignY=58&descSize=20&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <a href="https://katskouta.one">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Katsumata%20Kouta&fontSize=64&fontAlignY=36&desc=Full-stack%20Engineer%20%C3%97%20Independent%20Physicist&descAlignY=56&descSize=20&fontColor=ffffff&animation=fadeIn" alt="header"/>
   </a>
 </p>
 
 <!-- ===== Typing animation ===== -->
 <p align="center">
-  <a href="https://github.com/koutamanto">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Welcome+to+my+profile!+%F0%9F%91%8B;Programming+is+fun+%E2%9C%A8;%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E3%81%A7%E3%81%99;Always+learning%2C+always+building+%F0%9F%9A%80" alt="typing-svg"/>
+  <a href="https://katskouta.one">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+LLM+systems%2C+XR+apps+%26+cloud+infra+%F0%9F%9A%80;Independently+researching+spacetime+engineering+%F0%9F%8C%8C;Grounded+in+general+relativity+%E2%9A%9B%EF%B8%8F;%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%AF%E6%A5%BD%E3%81%97%E3%81%84%E3%81%A7%E3%81%99+%E2%9C%A8" alt="typing-svg"/>
   </a>
 </p>
 
-<!-- ===== Profile views / followers / stars ===== -->
+<!-- ===== Badges row ===== -->
 <p align="center">
+  <a href="https://katskouta.one">
+    <img src="https://img.shields.io/badge/Portfolio-katskouta.one-0e75b6?style=flat-square&logo=safari&logoColor=white" alt="portfolio"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=koutamanto&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
   <a href="https://github.com/koutamanto?tab=followers">
     <img src="https://img.shields.io/github/followers/koutamanto?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
   </a>
-  <a href="https://github.com/koutamanto">
-    <img src="https://img.shields.io/badge/Focus-Always%20Building-success?style=flat-square" alt="focus"/>
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Always%20Building-success?style=flat-square" alt="focus"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
+> *"Building LLM systems, XR applications, and cloud infrastructure — while independently researching spacetime engineering grounded in general relativity."*
+
 ```typescript
-const koutamanto: Developer = {
-  pronouns:   "they / them",
+const koutamanto: Engineer & Physicist = {
+  name:    "Katsumata Kouta",
+  roles:   ["Independent Researcher", "Full-stack Engineer", "Physicist"],
+  career:  [
+    "2023.04  Co-founder & CTO @ Vaccano LLC",
+    "2024     CISO @ ATLAS ONLINE",
+    "2025.12  Independent Researcher / Physicist",
+  ],
+  building:   ["LLM systems", "XR / Unity apps", "cloud infrastructure", "automation"],
+  researching:["general relativity", "Gertsenshtein effect", "spacetime engineering"],
   motto:      "プログラミングは楽しいです ✨",
-  code:       ["TypeScript", "Python", "Go", "Rust"],
-  askMeAbout: ["web dev", "automation", "open source"],
-  mindset:    "Build small, ship often, learn always.",
-  currentlyLearning: "system design & clean architecture",
 };
 ```
 
-- 🌱 日々コードを書きながら学び続けています
-- 🛠️ 小さく作って、素早く出して、改善する
-- 🤝 OSS / コラボレーション大歓迎です
-- 💬 気軽に Issue / PR を送ってください！
+- 🛰️ フルスタックエンジニアとして LLM / XR / クラウドを横断して開発しています
+- 🌌 一般相対性理論に基づく**時空エンジニアリング**を独立研究しています
+- 🤝 OSS・コラボレーション歓迎 — 気軽に Issue / PR をどうぞ
+- 🌐 Portfolio → **[katskouta.one](https://katskouta.one)**
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,react,nextjs,nodejs,tailwind,docker,git,github,linux,postgres,redis,vscode&theme=dark&perline=8" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,nodejs,go,rust,cs,unity,docker,gcp,aws,git,github,linux,postgres,tailwind&theme=dark&perline=10" alt="tech stack"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/LLM%20/%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/XR%20/%20Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="cicd"/>
+  <img src="https://img.shields.io/badge/3D%20CAD-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" alt="cad"/>
+  <img src="https://img.shields.io/badge/LINE%20Bot-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line"/>
 </p>
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description | Tech |
+| :------ | :---------- | :--- |
+| 🤖 **[EleClone](https://github.com/koutamanto/EleClone)** | Digital Clone Platform — built as CTO @ Vaccano LLC | LLM · Cloud |
+| 🎨 **[DesignAI](https://github.com/koutamanto/DesignAI)** | Automated Web Generation System — built as CISO @ ATLAS ONLINE | LLM · Web |
+| 🌌 **[GATE-1JTC](https://github.com/koutamanto/GATE-1JTC)** | 3D demo of GATE-1JTC ([DOI](https://doi.org/10.5281/zenodo.18049897)) | TypeScript · Three.js |
+| 🎛️ **[GATE-ControlPanel](https://github.com/koutamanto/GATE-ControlPanel)** | Web control panel for GATE-1JTC / 2JTC / FJTC with calc | TypeScript |
+| ✋ **[HandMirror.Game](https://github.com/koutamanto/HandMirror.Game)** | Mimic-hand-pose game | TypeScript · MediaPipe |
+| 🆘 **[AIBO](https://github.com/koutamanto/AIBO)** | AI Based Overcoming Support — AI を活用した自殺防止相談システム | Python · LLM |
+
+---
+
+## 🔬 Research
+
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.18049897">
+    <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18049897-blue?style=for-the-badge&logo=zenodo&logoColor=white" alt="doi"/>
+  </a>
+</p>
+
+> **GATE: Local Time Bias Control via Asymmetric Gertsenshtein Amplification** (2025, Zenodo)
+> Nonlinear gravitational field engineering grounded in general relativity — exploring asymmetric Gertsenshtein amplification toward spacetime engineering.
 
 ---
 
@@ -94,7 +127,7 @@ const koutamanto: Developer = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=koutamanto&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true" alt="activity graph"/>
 </p>
 
-<!-- ===== Contribution snake (requires the snake GitHub Action, see note below) ===== -->
+<!-- ===== Contribution snake (generated by .github/workflows/snake.yml) ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/koutamanto/koutamanto/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
@@ -104,17 +137,20 @@ const koutamanto: Developer = {
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://katskouta.one">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"/>
+  </a>
   <a href="https://github.com/koutamanto">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+  <a href="https://www.linkedin.com/in/katskouta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="zenn"/>
+  <a href="https://www.instagram.com/kats_kouta">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="qiita"/>
+  <a href="https://doi.org/10.5281/zenodo.18049897">
+    <img src="https://img.shields.io/badge/Research-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="zenodo"/>
   </a>
 </p>
 
@@ -135,5 +171,5 @@ koutamanto/koutamanto is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 NOTE: The contribution "snake" animation above needs a GitHub Action to generate the SVG.
-Create .github/workflows/snake.yml with Platane/snk to enable it (it pushes to the `output` branch).
+See .github/workflows/snake.yml (Platane/snk) — it pushes the SVG to the `output` branch.
 --->
