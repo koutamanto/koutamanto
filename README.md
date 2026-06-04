@@ -78,12 +78,14 @@ const koutamanto: Engineer & Physicist = {
 
 | Project | Description | Tech |
 | :------ | :---------- | :--- |
-| 🤖 **[EleClone](https://github.com/koutamanto/EleClone)** | Digital Clone Platform — built as CTO @ Vaccano LLC | LLM · Cloud |
-| 🎨 **[DesignAI](https://github.com/koutamanto/DesignAI)** | Automated Web Generation System — built as CISO @ ATLAS ONLINE | LLM · Web |
+| 🤖 **EleClone** 🔒 | Digital Clone Platform — built as CTO @ Vaccano LLC | LLM · Cloud |
+| 🎨 **DesignAI** 🔒 | Automated Web Generation System — built as CISO @ ATLAS ONLINE | LLM · Web |
 | 🌌 **[GATE-1JTC](https://github.com/koutamanto/GATE-1JTC)** | 3D demo of GATE-1JTC ([DOI](https://doi.org/10.5281/zenodo.18049897)) | TypeScript · Three.js |
-| 🎛️ **[GATE-ControlPanel](https://github.com/koutamanto/GATE-ControlPanel)** | Web control panel for GATE-1JTC / 2JTC / FJTC with calc | TypeScript |
-| ✋ **[HandMirror.Game](https://github.com/koutamanto/HandMirror.Game)** | Mimic-hand-pose game | TypeScript · MediaPipe |
+| 🎛️ **GATE-ControlPanel** 🔒 | Web control panel for GATE-1JTC / 2JTC / FJTC with calc | TypeScript |
+| ✋ **HandMirror.Game** 🔒 | Mimic-hand-pose game | TypeScript · MediaPipe |
 | 🆘 **[AIBO](https://github.com/koutamanto/AIBO)** | AI Based Overcoming Support — AI を活用した自殺防止相談システム | Python · LLM |
+
+<p align="right"><sub>🌐 = public repo &nbsp;·&nbsp; 🔒 = private / proprietary</sub></p>
 
 ---
 
