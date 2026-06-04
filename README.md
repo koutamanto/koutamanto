@@ -46,13 +46,13 @@ const koutamanto: Engineer & Physicist = {
   ],
   building:   ["LLM systems", "XR / Unity apps", "cloud infrastructure", "automation"],
   researching:["general relativity", "Gertsenshtein effect", "spacetime engineering"],
-  motto:      "プログラミングは楽しいです ✨",
+  motto:      "Impossible is Forbidden For me.",
 };
 ```
 
-- 🛰️ フルスタックエンジニアとして LLM / XR / クラウドを横断して開発しています
-- 🌌 一般相対性理論に基づく**時空エンジニアリング**を独立研究しています
-- 🤝 OSS・コラボレーション歓迎 — 気軽に Issue / PR をどうぞ
+- 🛰️ フルスタックエンジニアとして **AI / Web / 3D / その他未踏領域**を中心に開発しています
+- 🌌 一般相対性理論に基づく**時空工学分野のディープテック系の研究**をしています
+- 📨 **【ご気軽に】研究関連・案件関連でのご連絡もお待ちしております**
 - 🌐 Portfolio → **[katskouta.one](https://katskouta.one)**
 
 ---
@@ -95,7 +95,7 @@ const koutamanto: Engineer & Physicist = {
   </a>
 </p>
 
-> **GATE: Local Time Bias Control via Asymmetric Gertsenshtein Amplification** (2025, Zenodo)
+> **GATE** (2025, Zenodo)
 > Nonlinear gravitational field engineering grounded in general relativity — exploring asymmetric Gertsenshtein amplification toward spacetime engineering.
 
 ---
@@ -103,12 +103,12 @@ const koutamanto: Engineer & Physicist = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koutamanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koutamanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koutamanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koutamanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koutamanto&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=koutamanto&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ const koutamanto: Engineer & Physicist = {
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koutamanto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy-omega.vercel.app/?username=koutamanto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 ---
@@ -152,14 +152,18 @@ const koutamanto: Engineer & Physicist = {
   <a href="https://doi.org/10.5281/zenodo.18049897">
     <img src="https://img.shields.io/badge/Research-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="zenodo"/>
   </a>
+  <a href="mailto:katskouta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-katskouta%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
 </p>
 
 ---
 
 <!-- ===== Quote ===== -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=%22Life's+simple.+You+make+choices+and+you+don't+look+back.%22" alt="quote"/>
 </p>
+<p align="center"><sub><i>— Han Lue, The Fast and the Furious: Tokyo Drift</i></sub></p>
 
 <!-- ===== Footer wave ===== -->
 <p align="center">
