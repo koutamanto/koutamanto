@@ -106,14 +106,7 @@ const koutamanto: Engineer & Physicist = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koutamanto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koutamanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koutamanto&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats"/>
-</p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Dongle&preferLogin=true">    <img  alt="koutamanto's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/koutamanto?cardType=level&theme=github-dark&fontFamily=Dongle&preferLogin=true" />  </a>
 
 ---
 
